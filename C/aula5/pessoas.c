@@ -5,6 +5,6 @@ int main() {
     int idade = 17;
     char sexo = 'M';
     char cidade[] = "Caucaia";
-    printf("O seu nome é %s, tem %i anos, e seu sexo é %c, e mora em %s", nome, idade, sexo, cidade);
+    printf("O seu nome é %s.\nTem %i anos\nSeu sexo é %c\nMora em %s", nome, idade, sexo, cidade);
     return 0;
 }
