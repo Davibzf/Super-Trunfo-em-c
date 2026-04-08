@@ -6,16 +6,16 @@ int main() {
     float altura;
     char nome[50];
     
-    printf("Digite seu nome: \n");
+    printf("Digite seu nome: ");
     scanf("%s", nome);
     
-    printf("Digite sua matrivula: \n");
+    printf("\nDigite sua matrivula: ");
     scanf("%d", &matricula);
 
-    printf("Digite sua idade:\n ");
+    printf("\nDigite sua idade: ");
     scanf("%d", &idade);
 
-    printf("Digite sua altura: \n ");
+    printf("\nDigite sua altura: ");
     scanf("%f", &altura);
 
 
