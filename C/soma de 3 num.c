@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <windows.h>
  
 int main() {
     int num1, num2, num3, soma;
@@ -14,5 +15,6 @@ int main() {
     soma = num1 + num2 + num3;
 
     printf("soma de %d + %d + %d = %d", num1, num2, num3, soma);
+    Sleep(5000);
     return 0;
 }
