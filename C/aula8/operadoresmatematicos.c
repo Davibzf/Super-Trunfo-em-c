@@ -14,4 +14,8 @@ int main() {
     multiplicacao = num1 * num2;
     divisao = num1 / num2;
 
-    printf("Soma: %d\n", soma);")
+    printf("Soma: %d\n", soma);
+    printf("Subitração: %d\n", subtracao);
+    printf("Multiplicação: %d\n", multiplicacao);
+    printf("Divisão: %d\n", divisao);
+}
