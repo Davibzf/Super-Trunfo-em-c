@@ -8,7 +8,9 @@ int main() {
     int produto = a * b;
     int quociente = a / b;
 
-    printf("Soma: %" )
+    printf("Soma: %d\n", soma);
+    printf("Diferença: %d\n", diferenca);
+    printf
 
 
 
