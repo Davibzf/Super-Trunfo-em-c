@@ -10,7 +10,8 @@ int main() {
 
     printf("Soma: %d\n", soma);
     printf("Diferença: %d\n", diferenca);
-    printf
+    printf("Produto: %d\n", produto);
+    printf("Quociente: %d\n", qu)
 
 
 
