@@ -11,8 +11,5 @@ int main() {
     printf("Soma: %d\n", soma);
     printf("Diferença: %d\n", diferenca);
     printf("Produto: %d\n", produto);
-    printf("Quociente: %d\n", qu)
-
-
-
+    printf("Quociente: %d\n", quociente);
 }
