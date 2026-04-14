@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <windows.h>
 
 int main(){
     float nota1, nota2, nota3, media;
@@ -15,6 +16,8 @@ int main(){
     media = (nota1 + nota2 + nota3) /3 ;
 
     printf("A Média do aluno foi: %.2f", media);
+
+    Sleep(5000);
 
     return 0;
 }
